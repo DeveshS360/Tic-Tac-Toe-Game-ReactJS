@@ -10,8 +10,8 @@ Features which were already available in the Game:
 
 Features which I've added:
 1) Location of move is stored in a 3X3 grid, in a form of (row,col) in the movement history list
-2) The currently selected move becomes bold
+2) The currently selected move from the move list becomes bold
 3) A toggle button is added which sorts the list in ascending time and vice versa
 4) When someone wins, either X or O, the three squares which makes the winning trio are highlighted
 5) When no one wins, the message is shown which says "Game Tied"
-6) Made some UI changes make it look better and more user friendly
+6) Made some UI changes to make it look better and more user friendly
