@@ -3,7 +3,7 @@ Fully functional Tic-Tac-Toe game made from skeleton code available on Tutorial 
 
 Features which were already available in the Game:
 1) History of moves is shown and the user can navigate to any state of the board and can make another move at that point.
-2) When X or O wins , the message winning message shown at the top of the screen.
+2) When X or O wins , the winning message is shown at the top of the screen.
 3) The state of grid is stored in 1X9 array
 4) All the squares of the grid are rendered by hardcoding their index in the array
 
