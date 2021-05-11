@@ -1,0 +1,118 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+  }
+  
+  ol, ul {
+    padding-left: 30px;
+  }
+  
+  .board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+  
+  .status {
+    margin-bottom: 10px;
+  }
+  
+  .square {
+    background: #fff;
+    border: 5px solid purple;
+    float: left;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 100px;
+    height: 100px;
+    margin-right: -5px;
+    margin-top: -5px;
+    padding: 0;
+    text-align: center;
+    width: 100px;
+  }
+
+  .square-win{
+    background: orangered;
+    border: 5px solid purple;
+    float: left;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 100px;
+    height: 100px;
+    margin-right: -5px;
+    margin-top: -5px;
+    padding: 0;
+    text-align: center;
+    width: 100px;
+  }
+  
+  .square:hover {
+    background-color:yellow;
+    cursor:cell;
+  }
+
+  
+  
+  .kbd-navigation .square:focus {
+    background: #ddd;
+  }
+  
+  .game {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .game-info {
+    margin-left: 100px;
+    font-weight:bold;
+    font-size:30px;
+    font-style: oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-decoration-color: sienna;
+    
+    color:darkblue;
+  }
+
+
+  .click{
+    background: #999;
+    height:50px;
+    width:200px;
+    border-radius:10px;
+    padding:20px 20px 20px 20px;
+    text-align:center;
+    line-height:10px;
+    margin-bottom:10px;
+    font-size:18px;
+    font-family:Arial, Helvetica, sans-serif;
+    box-shadow:3px 3px;
+    
+  }
+  .bold{
+    background: lightblue;
+    font-style: italic;
+    font-weight:bold;
+    
+  }
+
+  .click:hover{
+    cursor:pointer;
+  }
+
+  .toggle{
+    height:60px;
+    width:100px;
+    font-size:15px;
+    line-height:20px;
+    text-align:center;
+    margin:50px 100px;
+    border-radius:20px;
+    box-shadow:-3px 0px black;
+  }
+
+  .toggle:hover{
+    cursor:pointer;
+  }
+  
