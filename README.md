@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game
-Fully functional Tic-Tac-Toe game made from skeleton code available on Tutorial on official reactjs.org website with addtional features added which were mentioned at the end of the Tutorial.
+Fully functional Tic-Tac-Toe game made from skeleton code available on Tutorial on official reactjs.org website with addtional features added which were mentioned at the end of the Tutorial. Here is the link to the tutorial : https://reactjs.org/tutorial/tutorial.html
 
 Features which were already available in the Game:
 1) History of moves is shown and the user can navigate to any state of the board and can make another move at that point.
@@ -24,5 +24,5 @@ Features which I've added:
 3) To start the app navigate to the app folder and run this command: npm start 
 
 # Deployment
-The game is deployed at https://deveshs360.github.io/Tic-Tac-Toe-Game-ReactJS/ 
+The game is deployed at https://deveshs360.github.io/Tic-Tac-Toe-Game-ReactJS/                   
 Have fun! :)
