@@ -22,3 +22,7 @@ Features which I've added:
 1) create a new React app by the following command : npx create-react-app my-app ( here you can give any other name to your app instead of "my-app" ) 
 2) replace the "src" folder of the newly created app with the one given above in the "React-Game-Tutorial" folder
 3) To start the app navigate to the app folder and run this command: npm start 
+
+# Deployment
+The game is deployed at https://deveshs360.github.io/Tic-Tac-Toe-Game-ReactJS/ 
+Have fun! :)
