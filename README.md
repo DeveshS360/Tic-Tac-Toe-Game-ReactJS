@@ -15,3 +15,10 @@ Features which I've added:
 4) When someone wins, either X or O, the three squares which makes the winning trio are highlighted
 5) When no one wins, the message is shown which says "Game Tied"
 6) Made some UI changes to make it look better and more user friendly
+
+
+
+# Steps to run the game ( Note: You must have nodejs installed in your machine )
+1) create a new React app by the following command : npx create-react-app my-app ( here you can give any other name to your app instead of "my-app" ) 
+2) replace the "src" folder of the newly created app with the one given above in the "React-Game-Tutorial" folder
+3) To start the app navigate to the app folder and run this command: npm start 
